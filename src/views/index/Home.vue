@@ -3,8 +3,8 @@
     <div class="left-board">
       <div class="logo-wrapper">
         <div class="logo">
-          <img :src="logo" alt="logo"> Form Generator
-          <a class="github" href="https://github.com/JakHuang/form-generator" target="_blank">
+          <img :src="logo" alt="logo"> CZC测试
+          <a class="github" href="https://github.com/py-xzczc/form-generator" target="_blank">
             <img src="https://github.githubassets.com/pinned-octocat.svg" alt>
           </a>
         </div>
